@@ -1,0 +1,2 @@
+# QtOpenglWindow
+基于Qt6 qtwidget学习LearnOpenGL的示例集

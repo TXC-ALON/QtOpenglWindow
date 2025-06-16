@@ -1,0 +1,165 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/software/OpenglWindow.ico</file>
+
+        <file>Resources/textures/container.jpg</file>
+        <file>Resources/textures/container2.png</file>
+        <file>Resources/textures/container2_specular.png</file>
+        <file>Resources/textures/matrix.jpg</file>
+        <file>Resources/textures/awesomeface.png</file>
+        <file>Resources/textures/wall.jpg</file>
+        <file>Resources/textures/metal.png</file>
+        <file>Resources/textures/marble.jpg</file>
+        <file>Resources/textures/grass.png</file>
+        <file>Resources/textures/window.png</file>
+
+        <file>Resources/textures/skybox/right.jpg</file>
+        <file>Resources/textures/skybox/top.jpg</file>
+        <file>Resources/textures/skybox/front.jpg</file>
+        <file>Resources/textures/skybox/left.jpg</file>
+        <file>Resources/textures/skybox/bottom.jpg</file>
+        <file>Resources/textures/skybox/back.jpg</file>
+
+        <file>Resources/textures/dice/1.png</file>
+        <file>Resources/textures/dice/2.png</file>
+        <file>Resources/textures/dice/3.png</file>
+        <file>Resources/textures/dice/4.png</file>
+        <file>Resources/textures/dice/5.png</file>
+        <file>Resources/textures/dice/6.png</file>
+
+
+
+        <file>Resources/objects/nanosuit/nanosuit.obj</file>
+
+        <file>Resources/shaders/01_Bird/02_hellotriangle/hello_triangle.frag</file>
+        <file>Resources/shaders/01_Bird/02_hellotriangle/hello_triangle1.frag</file>
+        <file>Resources/shaders/01_Bird/02_hellotriangle/hello_triangle.vert</file>
+        <file>Resources/shaders/01_Bird/03_shaders_interpolation/shaders_interpolation.frag</file>
+        <file>Resources/shaders/01_Bird/03_shaders_interpolation/shaders_interpolation.vert</file>
+        <file>Resources/shaders/01_Bird/03_shaders_interpolation/shaders_interpolation1.frag</file>
+        <file>Resources/shaders/01_Bird/03_shaders_interpolation/shaders_interpolation1.vert</file>
+        <file>Resources/shaders/01_Bird/04_texture/textures.frag</file>
+        <file>Resources/shaders/01_Bird/04_texture/textures.vert</file>
+        <file>Resources/shaders/01_Bird/04_texture/textures_widget.frag</file>
+        <file>Resources/shaders/01_Bird/04_texture/textures_widget.vert</file>
+        <file>Resources/shaders/01_Bird/04_texture/textures_exercise2.frag</file>
+        <file>Resources/shaders/01_Bird/04_texture/textures_exercise2.vert</file>
+        <file>Resources/shaders/01_Bird/04_texture/textures_exercise4.frag</file>
+        <file>Resources/shaders/01_Bird/04_texture/textures_exercise4.vert</file>
+        <file>Resources/shaders/01_Bird/05_transformations/transformations.frag</file>
+        <file>Resources/shaders/01_Bird/05_transformations/transformations.vert</file>
+        <file>Resources/shaders/01_Bird/06_coordinate/CoordinateSystems.frag</file>
+        <file>Resources/shaders/01_Bird/06_coordinate/CoordinateSystems.vert</file>
+        <file>Resources/shaders/01_Bird/06_coordinate/CoordinateSystemsDepth.frag</file>
+        <file>Resources/shaders/01_Bird/06_coordinate/CoordinateSystemsDepth.vert</file>
+        <file>Resources/shaders/01_Bird/08_review/review_glsl.frag</file>
+        <file>Resources/shaders/01_Bird/08_review/review_glsl.vert</file>
+        <file>Resources/shaders/01_Bird/08_review/origin.frag</file>
+        <file>Resources/shaders/01_Bird/08_review/origin.vert</file>
+        <file>Resources/shaders/01_Bird/08_review/review_axes.frag</file>
+        <file>Resources/shaders/01_Bird/08_review/review_axes.vert</file>
+
+
+        <file>Resources/shaders/02_Lighting/01_Basic_Lighting/basic_lighting.frag</file>
+        <file>Resources/shaders/02_Lighting/01_Basic_Lighting/basic_lighting_disffuse.frag</file>
+        <file>Resources/shaders/02_Lighting/01_Basic_Lighting/basic_lighting.vert</file>
+        <file>Resources/shaders/02_Lighting/01_Basic_Lighting/basic_lighting_exercise3.frag</file>
+        <file>Resources/shaders/02_Lighting/01_Basic_Lighting/basic_lighting_exercise3.vert</file>
+        <file>Resources/shaders/02_Lighting/01_Basic_Lighting/colors.frag</file>
+        <file>Resources/shaders/02_Lighting/01_Basic_Lighting/colors.vert</file>
+        <file>Resources/shaders/02_Lighting/01_Basic_Lighting/light_cube.frag</file>
+        <file>Resources/shaders/02_Lighting/01_Basic_Lighting/light_cube.vert</file>
+        <file>Resources/shaders/02_Lighting/02_Materials/materials.frag</file>
+        <file>Resources/shaders/02_Lighting/02_Materials/materials.vert</file>
+        <file>Resources/shaders/02_Lighting/03_Lighting_Maps/lighting_maps_diffuse_map.frag</file>
+        <file>Resources/shaders/02_Lighting/03_Lighting_Maps/lighting_maps_diffuse_map.vert</file>
+        <file>Resources/shaders/02_Lighting/03_Lighting_Maps/lighting_maps_exercise2.frag</file>
+        <file>Resources/shaders/02_Lighting/03_Lighting_Maps/lighting_maps_exercise2.vert</file>
+        <file>Resources/shaders/02_Lighting/03_Lighting_Maps/lighting_maps_exercise4.frag</file>
+        <file>Resources/shaders/02_Lighting/03_Lighting_Maps/lighting_maps_exercise4.vert</file>
+        <file>Resources/shaders/02_Lighting/03_Lighting_Maps/lighting_maps_specular_map.frag</file>
+        <file>Resources/shaders/02_Lighting/03_Lighting_Maps/lighting_maps_specular_map.vert</file>
+        <file>Resources/shaders/02_Lighting/04_Light_Casters/light_casters_directional.frag</file>
+        <file>Resources/shaders/02_Lighting/04_Light_Casters/light_casters_directional.vert</file>
+        <file>Resources/shaders/02_Lighting/04_Light_Casters/light_casters_point.frag</file>
+        <file>Resources/shaders/02_Lighting/04_Light_Casters/light_casters_point.vert</file>
+        <file>Resources/shaders/02_Lighting/04_Light_Casters/light_casters_spot.frag</file>
+        <file>Resources/shaders/02_Lighting/04_Light_Casters/light_casters_spot.vert</file>
+        <file>Resources/shaders/02_Lighting/05_multiple_lights/light_cube.frag</file>
+        <file>Resources/shaders/02_Lighting/05_multiple_lights/light_cube.vert</file>
+        <file>Resources/shaders/02_Lighting/05_multiple_lights/multiple_lights.frag</file>
+        <file>Resources/shaders/02_Lighting/05_multiple_lights/multiple_lights.vert</file>
+        <file>Resources/shaders/02_Lighting/06_review_lighting/colors.frag</file>
+        <file>Resources/shaders/02_Lighting/06_review_lighting/colors.vert</file>
+        <file>Resources/shaders/02_Lighting/06_review_lighting/light_cube.frag</file>
+        <file>Resources/shaders/02_Lighting/06_review_lighting/light_cube.vert</file>
+        <file>Resources/shaders/02_Lighting/06_review_lighting/materials.frag</file>
+        <file>Resources/shaders/02_Lighting/06_review_lighting/materials.vert</file>
+        <file>Resources/shaders/02_Lighting/06_review_lighting/multiple_lights.frag</file>
+        <file>Resources/shaders/02_Lighting/06_review_lighting/multiple_lights.vert</file>
+        <file>Resources/shaders/03_Model/multiple_lights.frag</file>
+        <file>Resources/shaders/03_Model/multiple_lights.vert</file>
+        <file>Resources/shaders/03_Model/light_cube.frag</file>
+        <file>Resources/shaders/03_Model/light_cube.vert</file>
+
+        <file>Resources/shaders/04_Advanced/01_Depth_testing/depth_testing.frag</file>
+        <file>Resources/shaders/04_Advanced/01_Depth_testing/depth_testing.vert</file>
+        <file>Resources/shaders/04_Advanced/01_Depth_testing/depth_testing_view.frag</file>
+        <file>Resources/shaders/04_Advanced/01_Depth_testing/depth_testing_view_color.frag</file>
+        <file>Resources/shaders/04_Advanced/02_Stencil_testing/stencil_testing.frag</file>
+        <file>Resources/shaders/04_Advanced/02_Stencil_testing/stencil_testing.vert</file>
+        <file>Resources/shaders/04_Advanced/02_Stencil_testing/stencil_single_color.frag</file>
+        <file>Resources/shaders/04_Advanced/03_Blending/blending_discard.vert</file>
+        <file>Resources/shaders/04_Advanced/03_Blending/blending_discard.frag</file>
+        <file>Resources/shaders/04_Advanced/03_Blending/blending_sort.frag</file>
+        <file>Resources/shaders/04_Advanced/03_Blending/blending_sort.vert</file>    
+        <file>Resources/shaders/04_Advanced/04_Framebuffers/framebuffers.frag</file>
+        <file>Resources/shaders/04_Advanced/04_Framebuffers/framebuffers.vert</file>
+        <file>Resources/shaders/04_Advanced/04_Framebuffers/framebuffers_screen.frag</file>
+        <file>Resources/shaders/04_Advanced/04_Framebuffers/framebuffers_screen.vert</file>
+        <file>Resources/shaders/04_Advanced/05_Cubemaps/cubemaps.frag</file>
+        <file>Resources/shaders/04_Advanced/05_Cubemaps/cubemaps.vert</file>
+        <file>Resources/shaders/04_Advanced/05_Cubemaps/skybox.frag</file>
+        <file>Resources/shaders/04_Advanced/05_Cubemaps/skybox.vert</file>
+        <file>Resources/shaders/04_Advanced/05_Cubemaps/cubemaps_environment.frag</file>
+        <file>Resources/shaders/04_Advanced/05_Cubemaps/cubemaps_environment.vert</file>   
+        <file>Resources/shaders/04_Advanced/06_Advanced_glsl/advanced_glsl.vert</file>
+        <file>Resources/shaders/04_Advanced/06_Advanced_glsl/red.frag</file>   
+        <file>Resources/shaders/04_Advanced/06_Advanced_glsl/yellow.frag</file>   
+        <file>Resources/shaders/04_Advanced/06_Advanced_glsl/green.frag</file>  
+        <file>Resources/shaders/04_Advanced/06_Advanced_glsl/blue.frag</file>   
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/geometry_shader_houses.frag</file>
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/geometry_shader_houses.vert</file>
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/geometry_shader_houses.geom</file>  
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/geometry_shader_exploding.frag</file>
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/geometry_shader_exploding.vert</file>
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/geometry_shader_exploding.geom</file> 
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/default.frag</file>
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/default.vert</file> 
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/normal_visualization.frag</file>
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/normal_visualization.vert</file>
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/normal_visualization.geom</file>   
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/middle_normal_visualization.frag</file>
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/middle_normal_visualization.vert</file>
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/middle_normal_visualization.geom</file>           
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/wire_visualization.frag</file>
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/wire_visualization.vert</file>
+        <file>Resources/shaders/04_Advanced/07_Geometry_shader/wire_visualization.geom</file>   
+
+
+        <file>Resources/shaders/04_Advanced/08_Instances/instancing.frag</file>   
+        <file>Resources/shaders/04_Advanced/08_Instances/instancing.vert</file>     
+        <file>Resources/shaders/04_Advanced/08_Instances/asteroids.frag</file>   
+        <file>Resources/shaders/04_Advanced/08_Instances/asteroids.vert</file>    
+        <file>Resources/shaders/04_Advanced/08_Instances/asteroids_instanced.frag</file>   
+        <file>Resources/shaders/04_Advanced/08_Instances/asteroids_instanced.vert</file>           
+        <file>Resources/shaders/04_Advanced/08_Instances/planet.frag</file>   
+        <file>Resources/shaders/04_Advanced/08_Instances/planet.vert</file>
+        <file>Resources/shaders/04_Advanced/09_Anti_aliasing/anti_aliasing.frag</file>   
+        <file>Resources/shaders/04_Advanced/09_Anti_aliasing/anti_aliasing.vert</file>
+        <file>Resources/shaders/04_Advanced/09_Anti_aliasing/aa_post.frag</file>   
+        <file>Resources/shaders/04_Advanced/09_Anti_aliasing/aa_post.vert</file>        
+        <file>Resources/shaders/04_Advanced/09_Anti_aliasing/anti_aliasing_offscreen.frag</file>   
+        <file>Resources/shaders/04_Advanced/09_Anti_aliasing/anti_aliasing_offscreen.vert</file>  
+    </qresource>
+</RCC>
